@@ -1,0 +1,10 @@
+
+.navbar{
+    display: block;
+}
+.navbar-dark{
+    background-color: #320B17;
+}
+img{
+    border-radius: 50%;
+}
